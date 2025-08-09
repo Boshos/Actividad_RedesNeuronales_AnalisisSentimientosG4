@@ -1,0 +1,3 @@
+model,acc,f1_macro,layers,activation,lr,batch_size,max_features
+NeuralNetwork,0.6313333333333333,0.6284676631362663,"[10000, 256, 128, 3]",relu,0.03,256,10000
+Softmax,0.604,0.60665949140663,linear,softmax,0.2,512,10000

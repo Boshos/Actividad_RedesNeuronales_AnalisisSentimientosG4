@@ -1,0 +1,3 @@
+model,arch,activation,test_acc,test_f1
+nn,"[256, 128]",relu,0.6313333333333333,0.6284676631362663
+softmax,linear,softmax,0.604,0.60665949140663
