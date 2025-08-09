@@ -18,7 +18,7 @@ tarea-redes-neuronales-[grupo]/
 │   ├── data_preprocessing.py
 │   ├── experiments.py
 │   ├── neural_network.py
-│   ├── softmax_regressiom.py
+│   ├── softmax_regression.py
 │   └── utils.py
 ├── notebooks/
 │   ├── 00_Procesamiento.ipynb
