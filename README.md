@@ -6,14 +6,6 @@ centrado en el análisis de sentimientos utilizando redes neuronales.
 ## Objetivo: 
 Analizar y clasificar el sentimiento de un conjunto de datos mediante modelos de machine learning y redes neuronales simples, evaluando métricas como accuracy, precision, recall y f1-score.
 
-##  Estructura del repositorio
-
-# Actividad_1_LabPractico_GoogleColab
-
-## Objetivo
-
-El objetivo de esta actividad es aplicar los fundamentos de análisis de datos, visualización, machine learning básico e introducción al deep learning utilizando Google Colab y GitHub. Se trabajará con notebooks organizados y documentación clara.
-
 ##  Estructura del Repositorio
 
 ```
