@@ -3,6 +3,9 @@
 Este repositorio contiene el trabajo práctico del **Grupo 4** para la materia de Inteligencia Artificial, 
 centrado en el análisis de sentimientos utilizando redes neuronales.
 
+## Objetivo: 
+Analizar y clasificar el sentimiento de un conjunto de datos mediante modelos de machine learning y redes neuronales simples, evaluando métricas como accuracy, precision, recall y f1-score.
+
 ##  Estructura del repositorio
 
 # Actividad_1_LabPractico_GoogleColab
@@ -39,18 +42,12 @@ tarea-redes-neuronales-[grupo]/
 └── docs/
     └── reporte_tecnico.md
 
+```
+
 ## Imágenes
 
 Las gráficas generadas se encuentran en la carpeta `results/`.
 
-## Librerías utilizadas
-Este proyecto utiliza Python 3 y las siguientes librerías:
-
-- numpy
-- pandas
-- matplotlib
-
-Ver archivo [`requirements.txt`](./requirements.txt).
 
 **Repositorio desarrollado para la entrega de la Actividad 3 de Inteligencia Artificial- Redes Neuronales**.
 
