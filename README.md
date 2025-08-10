@@ -1,4 +1,4 @@
-# Actividad. Redes Neuronales - Análisis de Sentimientos
+# Actividad Redes Neuronales - Análisis de Sentimientos
 
 Este repositorio contiene el trabajo práctico del **Grupo 4** para la materia de Inteligencia Artificial, 
 centrado en el análisis de sentimientos utilizando redes neuronales.
